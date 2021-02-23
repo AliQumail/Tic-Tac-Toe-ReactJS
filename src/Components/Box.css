@@ -1,0 +1,13 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  margin: 5px;
+  color: red;
+}
+.xo {
+  font-size: 60px;
+  font-weight: bold;
+  position: relative;
+  left: 28%;
+}

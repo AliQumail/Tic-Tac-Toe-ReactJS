@@ -1,0 +1,15 @@
+.main {
+  margin: 30px;
+}
+
+.heading {
+  color: white;
+  background-color: black;
+  width: 40%;
+  max-width: 200px;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+  left: 70px;
+  border-radius: 5%;
+}
